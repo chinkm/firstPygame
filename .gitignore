@@ -1,0 +1,4 @@
+venv/
+pygameTest.py
+__pycache__
+ProtectedFile
